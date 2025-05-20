@@ -1,0 +1,462 @@
+[
+    {
+        "id": "1",
+        "pergunta": "Por que é importante atualizar o sistema operacional?",
+        "respostas": [
+            {
+                "letra": "A",
+                "texto": "Para deixar o computador mais bonito"
+            },
+            {
+                "letra": "B",
+                "texto": "Para corrigir falhas de segurança",
+                "correta": true
+            },
+            {
+                "letra": "C",
+                "texto": "Para instalar jogos novos"
+            },
+            {
+                "letra": "D",
+                "texto": "Para liberar espaço de armazenamento"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "pergunta": "O que você deve fazer ao receber um e-mail suspeito?",
+        "respostas": [
+            {
+                "letra": "A",
+                "texto": "Verificar o remetente e não clicar em links",
+                "correta": true
+            },
+            {
+                "letra": "B",
+                "texto": "Abrir o anexo para ver do que se trata"
+            },
+            {
+                "letra": "C",
+                "texto": "Responder pedindo mais informações"
+            },
+            {
+                "letra": "D",
+                "texto": "Encaminhar para os amigos"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "pergunta": "O que é um site seguro?",
+        "respostas": [
+            {
+                "letra": "A",
+                "texto": "Um site com muitas imagens"
+            },
+            {
+                "letra": "B",
+                "texto": "Um site que carrega rápido"
+            },
+            {
+                "letra": "C",
+                "texto": "Um site sem propagandas"
+            },
+            {
+                "letra": "D",
+                "texto": "Um site que começa com \"https://\"",
+                "correta": true
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "pergunta": "Qual dessas é uma boa prática de segurança digital?",
+        "respostas": [
+            {
+                "letra": "A",
+                "texto": "Desligar o antivírus para economizar energia"
+            },
+            {
+                "letra": "B",
+                "texto": "Usar redes Wi-Fi abertas para tudo"
+            },
+            {
+                "letra": "C",
+                "texto": "Compartilhar senhas no WhatsApp"
+            },
+            {
+                "letra": "D",
+                "texto": "Fazer backup regularmente dos seus dados",
+                "correta": true
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "pergunta": "Qual dessas opções representa um ataque de phishing?",
+        "respostas": [
+            {
+                "letra": "A",
+                "texto": "Um erro no seu HD"
+            },
+            {
+                "letra": "B",
+                "texto": "Um e-mail falso tentando roubar dados",
+                "correta": true
+            },
+            {
+                "letra": "C",
+                "texto": "Um travamento do sistema"
+            },
+            {
+                "letra": "D",
+                "texto": "Um bloqueio de rede por manutenção"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "pergunta": "Qual é o uso principal de um antivírus?",
+        "respostas": [
+            {
+                "letra": "A",
+                "texto": "Detectar e remover malwares",
+                "correta": true
+            },
+            {
+                "letra": "B",
+                "texto": "Acelerar a internet"
+            },
+            {
+                "letra": "C",
+                "texto": "Atualizar redes sociais"
+            },
+            {
+                "letra": "D",
+                "texto": "Fazer backup automaticamente"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "pergunta": "O que pode acontecer ao usar redes Wi-Fi públicas sem proteção?",
+        "respostas": [
+            {
+                "letra": "A",
+                "texto": "A internet fica mais rápida"
+            },
+            {
+                "letra": "B",
+                "texto": "O sinal fica mais forte"
+            },
+            {
+                "letra": "C",
+                "texto": "Seus dados podem ser interceptados",
+                "correta": true
+            },
+            {
+                "letra": "D",
+                "texto": "O celular carrega mais rápido"
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "pergunta": "Qual é o papel da VPN na segurança digital?",
+        "respostas": [
+            {
+                "letra": "A",
+                "texto": "Apagar arquivos duplicados"
+            },
+            {
+                "letra": "B",
+                "texto": "Criptografar a conexão em redes inseguras",
+                "correta": true
+            },
+            {
+                "letra": "C",
+                "texto": "Fazer download de arquivos"
+            },
+            {
+                "letra": "D",
+                "texto": "Criar novas senhas automaticamente"
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "pergunta": "Por que não se deve baixar aplicativos de fontes não confiáveis?",
+        "respostas": [
+            {
+                "letra": "A",
+                "texto": "Eles são mais caros"
+            },
+            {
+                "letra": "B",
+                "texto": "Não funcionam sem internet"
+            },
+            {
+                "letra": "C",
+                "texto": "Podem conter vírus ou malware",
+                "correta": true
+            },
+            {
+                "letra": "D",
+                "texto": "Ocupam muito espaço no celular"
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "pergunta": "Como proteger seu dispositivo contra acessos não autorizados?",
+        "respostas": [
+            {
+                "letra": "A",
+                "texto": "Não usar senha"
+            },
+            {
+                "letra": "B",
+                "texto": "Compartilhar com amigos"
+            },
+            {
+                "letra": "C",
+                "texto": "Ativar bloqueio por senha ou biometria",
+                "correta": true
+            },
+            {
+                "letra": "D",
+                "texto": "Deixar o dispositivo sempre ligado"
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "pergunta": "O que fazer se você suspeitar de um ataque cibernético?",
+        "respostas": [
+            {
+                "letra": "A",
+                "texto": "Relatar ao responsável e mudar senhas",
+                "correta": true
+            },
+            {
+                "letra": "B",
+                "texto": "Ignorar e continuar usando o sistema"
+            },
+            {
+                "letra": "C",
+                "texto": "Apagar todos os arquivos"
+            },
+            {
+                "letra": "D",
+                "texto": "Reiniciar o computador"
+            }
+        ]
+    },
+    {
+        "id": "12",
+        "pergunta": "Qual é o principal risco de publicar dados pessoais nas redes sociais?",
+        "respostas": [
+            {
+                "letra": "A",
+                "texto": "Receber curtidas demais"
+            },
+            {
+                "letra": "B",
+                "texto": "Gastar mais internet"
+            },
+            {
+                "letra": "C",
+                "texto": "Ser vítima de golpes ou fraudes",
+                "correta": true
+            },
+            {
+                "letra": "D",
+                "texto": "Ter que responder muitos comentários"
+            }
+        ]
+    },
+    {
+        "id": "13",
+        "pergunta": "Qual medida ajuda a proteger dados sensíveis?",
+        "respostas": [
+            {
+                "letra": "A",
+                "texto": "Salvar senhas em documentos de texto"
+            },
+            {
+                "letra": "B",
+                "texto": "Criptografar arquivos importantes",
+                "correta": true
+            },
+            {
+                "letra": "C",
+                "texto": "Escrever senhas em papéis"
+            },
+            {
+                "letra": "D",
+                "texto": "Usar sempre o mesmo e-mail"
+            }
+        ]
+    },
+    {
+        "id": "14",
+        "pergunta": "Por que devemos revisar permissões de aplicativos no celular?",
+        "respostas": [
+            {
+                "letra": "A",
+                "texto": "Para limitar o acesso a dados desnecessários",
+                "correta": true
+            },
+            {
+                "letra": "B",
+                "texto": "Para aumentar a velocidade do celular"
+            },
+            {
+                "letra": "C",
+                "texto": "Para economizar bateria"
+            },
+            {
+                "letra": "D",
+                "texto": "Para baixar mais apps"
+            }
+        ]
+    },
+    {
+        "id": "15",
+        "pergunta": "Qual é uma forma de reforçar a segurança das contas online?",
+        "respostas": [
+            {
+                "letra": "A",
+                "texto": "Ignorar alertas de segurança"
+            },
+            {
+                "letra": "B",
+                "texto": "Usar autenticação em dois fatores",
+                "correta": true
+            },
+            {
+                "letra": "C",
+                "texto": "Usar datas de aniversário como senha"
+            },
+            {
+                "letra": "D",
+                "texto": "Salvar senhas no bloco de notas"
+            }
+        ]
+    },
+    {
+        "id": "16",
+        "pergunta": "Como agir ao receber uma tentativa de login desconhecido?",
+        "respostas": [
+            {
+                "letra": "A",
+                "texto": "Ignorar o aviso"
+            },
+            {
+                "letra": "B",
+                "texto": "Trocar a senha imediatamente",
+                "correta": true
+            },
+            {
+                "letra": "C",
+                "texto": "Postar nas redes sociais"
+            },
+            {
+                "letra": "D",
+                "texto": "Compartilhar com amigos"
+            }
+        ]
+    },
+    {
+        "id": "17",
+        "pergunta": "O que você deve fazer ao se afastar do computador?",
+        "respostas": [
+            {
+                "letra": "A",
+                "texto": "Bloquear a tela",
+                "correta": true
+            },
+            {
+                "letra": "B",
+                "texto": "Deixar o sistema aberto"
+            },
+            {
+                "letra": "C",
+                "texto": "Desligar o monitor apenas"
+            },
+            {
+                "letra": "D",
+                "texto": "Desconectar da internet"
+            }
+        ]
+    },
+    {
+        "id": "18",
+        "pergunta": "Qual a atitude mais segura sobre senhas?",
+        "respostas": [
+            {
+                "letra": "A",
+                "texto": "Usar nomes de familiares"
+            },
+            {
+                "letra": "B",
+                "texto": "Trocar a senha uma vez por ano"
+            },
+            {
+                "letra": "C",
+                "texto": "Usar senhas fáceis de lembrar"
+            },
+            {
+                "letra": "D",
+                "texto": "Criar senhas fortes e únicas para cada serviço",
+                "correta": true
+            }
+        ]
+    },
+    {
+        "id": "19",
+        "pergunta": "Qual das opções é a prática mais segura em relação a senhas?",
+        "respostas": [
+            {
+                "letra": "A",
+                "texto": "Usar a mesma senha para todas as contas"
+            },
+            {
+                "letra": "B",
+                "texto": "Escrever a senha em um papel e deixar perto do computador"
+            },
+            {
+                "letra": "C",
+                "texto": "Usar senhas diferentes para cada serviço",
+                "correta": true
+            },
+            {
+                "letra": "D",
+                "texto": "Compartilhar a senha apenas com pessoas de confiança"
+            }
+        ]
+    },
+    {
+        "id": "20",
+        "pergunta": "O que é a autenticação em dois fatores (2FA)?",
+        "respostas": [
+            {
+                "letra": "A",
+                "texto": "Um tipo de antivírus"
+            },
+            {
+                "letra": "B",
+                "texto": "Um programa de segurança de rede"
+            },
+            {
+                "letra": "C",
+                "texto": "Um método de verificação adicional além da senha",
+                "correta": true
+            },
+            {
+                "letra": "D",
+                "texto": "Um backup automático dos seus dados"
+            }
+        ]
+    }
+]
